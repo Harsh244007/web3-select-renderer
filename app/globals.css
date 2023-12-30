@@ -10,6 +10,8 @@
 body {
   padding: 1rem;
   color: var(--foreground-rgb);
+  max-width: 1200px;
+  margin: auto;
   background-color: var(--background-rgb);
 }
 
